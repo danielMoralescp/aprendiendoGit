@@ -2,13 +2,4 @@ dani1
 dani11
 dani7777
 dan77
-<<<<<<< HEAD
-dany 14/07/2024git status
-
-
-
-
-
-=======
 dani14072024
->>>>>>> ramaB
